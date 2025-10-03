@@ -1,0 +1,5 @@
+/books__pycache__/
+airflow_venv/
+__pycache__/
+airflow_venv/
+.idea/
